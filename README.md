@@ -1,6 +1,8 @@
 # ReduxApp_React
 This is an Example of Redux in React
 
+# Installing Redux along with React Redux and Redux Thunk
+npm i redux react-redux redux-thunk
 
 # Getting Started with Create React App
 
