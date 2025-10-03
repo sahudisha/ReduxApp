@@ -1,8 +1,8 @@
 import { combineReducers } from "redux";
 import amountReducer from "./amountReducer";
 
-const reducers = combineReducers({
+export default combineReducers({
     amount: amountReducer
 })
 
-export default reducers;
+// export default reducers;
